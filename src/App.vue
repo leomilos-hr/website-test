@@ -3,7 +3,7 @@
 </style>
 
 <template>
-  <img class="img" alt="Iron Man" src="./assets/levels.png">
+  <img class="img" alt="Levels" src="./assets/levels.png">
   <h1>Start. Start now.</h1>
 </template>
 
