@@ -1,17 +1,21 @@
+<style>
+  @import './assets/styles/images.css';
+</style>
+
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img class="img" alt="Iron Man" src="./assets/levels.png">
+  <h1>Start. Start now.</h1>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+//import Home from './components/Home.vue'
 
-export default {
+/* export default {
   name: 'App',
   components: {
-    HelloWorld
+    Home
   }
-}
+} */
 </script>
 
 <style>
