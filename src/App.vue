@@ -4,7 +4,9 @@
 
 <template>
   <img class="img" alt="Levels" src="./assets/levels.png">
-  <h1>Start. Start now.</h1>
+  <h1>Start. Start now.
+    New slogan.
+  </h1>
 </template>
 
 <script>
